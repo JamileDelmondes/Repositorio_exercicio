@@ -1,0 +1,27 @@
+
+
+
+.square{
+    background-color: red;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+}
+.square h1{
+    color: white;
+    font-size: 25px;
+    position: relative;
+    top: 40%;
+}
+.square2{
+    background-color: black;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+}
+.square2 h2{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 40%;
+}
